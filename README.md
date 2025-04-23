@@ -14,7 +14,7 @@ You can ask:
 Follow these steps to run the project on your local machine:
 
 1. Clone the Repository
-   git clone https://github.com/your-username/chatbot_pdf.git
+   git clone https://github.com/gandhamkalyan/chatbot_pdf.git
    cd chatbot_pdf
 
 2.Create a Virtual Environment (Recommended)
